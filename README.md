@@ -1,0 +1,2 @@
+# AgenticAI
+Practice AI code
